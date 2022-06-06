@@ -3,7 +3,7 @@ import datetime
 
 
 
-liste = os.listdir('/media/atom/TOM 2')
+liste = os.listdir('chemin du dossier que vous voulez lister')
 print(liste)
 
 update = open('update.txt', 'a')
